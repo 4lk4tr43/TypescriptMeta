@@ -1,5 +1,5 @@
 <h1>TypescriptMeta</h1>
-<h2>A typescript library to add classes with annotated functions</h2>
+A typescript library to add classes with annotated functions
 <hr>
 
 
@@ -36,6 +36,5 @@ module MyApp {
     }
 }
 </pre>
-
-
+<hr>
 <b>More information can be found in the file comments.</b>
