@@ -1,4 +1,3 @@
-<h1>TypescriptMeta</h1>
 A typescript library to add classes with annotated functions
 <hr>
 
