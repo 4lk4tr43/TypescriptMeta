@@ -5,7 +5,7 @@
 <br>
 <h3>Create an annotation for class methods</h3>
 <ol>
-<li>Derive a class from Meta.Annotation<li>
+<li>Derive a class from Meta.Annotation</li>
 <li>Override the execute method to manipulate the annotated instance/class (instance variables should be created with lazy getters)</li>
 <br>
 <pre>
