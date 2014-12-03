@@ -40,3 +40,5 @@ module MyApp {
 </pre>
 <hr>
 <b>More information can be found in the file comments.</b>
+<hr>
+Collaborators are always welcome!
